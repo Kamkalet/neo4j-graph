@@ -1,0 +1,1 @@
+Example od graph database in embedded Cypher.
